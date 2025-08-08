@@ -1,0 +1,9 @@
+2025-07-16 23:21:47,075 - INFO - Starting training on TUD-GV dataset
+2025-07-16 23:21:47,075 - INFO - Output directory: e:/version_2/vit_detector/outputs/checkpoints\TUD-GV_20250716_232147
+2025-07-16 23:21:47,093 - INFO - Training with 7555 images.
+2025-07-16 23:21:47,093 - INFO - Validating with 1895 images.
+2025-07-16 23:21:47,544 - INFO - Loading pretrained weights from Hugging Face hub (timm/pvt_v2_b2.in1k)
+2025-07-16 23:21:48,373 - INFO - [timm/pvt_v2_b2.in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-07-16 23:21:48,434 - INFO - Missing keys (head.weight, head.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-07-16 23:21:48,856 - INFO - Starting training...
+2025-07-16 23:21:48,856 - INFO - Epoch 1/150
